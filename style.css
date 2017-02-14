@@ -2,6 +2,7 @@ h1, h2 {
   text-align: left;
 }
 
-section {
-  border-bottom: 3px solid black;
+div {
+  border-top: 2px solid black;
+  padding-bottom: 10px;
 }
