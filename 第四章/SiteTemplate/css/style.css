@@ -1,15 +1,12 @@
 body {
-
   line-height: 1.5;
-
   background: url(../images/header.jpg);
   color: white;
   font-family: "microsoft yahei";
-  /* Full Page Background Receipe */
+  /* 以下代码为全屏图片的实现方式，请勿改动 */
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-
 }
 
 .container {
