@@ -1,12 +1,7 @@
-.red-border {
-	border: 1px solid red;
-}
-
-.app {
-    display: flex;
-    display: -webkit-flex;
+.box {
 }
 
 .option {
-	width: 25%;
+	border: 1px solid red;
+	
 }
